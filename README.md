@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kalvenna
+- 👀 I'm interested in software and coding
+- 🌱 I'm currently learning C#, Python, HTML, CSS and Javascript.
+- 👩🏻‍💻 I'm currently a 2nd year Computer Engineering student.
